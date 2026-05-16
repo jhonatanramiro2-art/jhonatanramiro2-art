@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## 
 # Olá, eu sou o Jhonatan Seiberlich 👋
 
 Sou um desenvolvedor em transição de carreira / em formação, focado em criar soluções eficientes para a web. Atualmente, amplio meus conhecimentos como bolsista do **Santander Academy**, desenvolvendo projetos práticos com foco em arquiteturas Full-stack.
@@ -26,5 +24,3 @@ Sou um desenvolvedor em transição de carreira / em formação, focado em criar
 📫 **Como me encontrar:**
 * **LinkedIn:** [(https://www.linkedin.com/in/jhonatan-seiberlich/)]
 * **E-mail:** [jhonatanramiro2@gmail.com]
-
--->
