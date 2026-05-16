@@ -1,5 +1,5 @@
 ## 
-# Olá, eu sou o Jhonatan Seiberlich 👋
+# Olá, eu sou Jhonatan Seiberlich 👋
 
 Sou um desenvolvedor em transição de carreira / em formação, focado em criar soluções eficientes para a web. Atualmente, amplio meus conhecimentos como bolsista do **Santander Academy**, desenvolvendo projetos práticos com foco em arquiteturas Full-stack.
 
