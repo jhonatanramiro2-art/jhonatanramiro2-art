@@ -1,26 +1,26 @@
 ## 
-# Olá, eu sou Jhonatan Seiberlich 👋
+# Hello! I am Jhonatan Seiberlich 👋
 
-Sou um desenvolvedor em transição de carreira / em formação, focado em criar soluções eficientes para a web. Atualmente, amplio meus conhecimentos como bolsista do **Santander Academy**, desenvolvendo projetos práticos com foco em arquiteturas Full-stack.
+I am a transitioning/junior developer focused on creating efficient web solutions. Currently, I am expanding my skills as a Santander Academy scholar, developing hands-on projects with a focus on full-stack architectures.
 
-## 🚀 No que estou focando agora
-* 🎓 Bolsista no Bootcamp Santander Academy (React, .NET e C#).
-* 🛠️ Construindo APIs robustas com .NET, Node.js e interfaces dinâmicas com React.
-* 🗄️ Modelando e operando bancos de dados relacionais e não-relacionais como **SQL Server** e **MongoDB**.
-* 📈 Aprendendo boas práticas de arquitetura de software e versionamento com Git.
+## 🚀 What I'm focusing on now
+* 🎓 Scholar at the Santander Academy Bootcamp (React, .NET, and C#).
+* 🛠️ Building robust APIs with .NET, Node.js, and dynamic interfaces with React.
+* 🗄️ Modeling and managing relational and non-relational databases such as **SQL Server** and **MongoDB**.
+* 📈 Learning software architecture best practices and version control with Git.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools    
 ![C#](https://shields.io)
 ![.NET](https://shields.io)
 ![React](https://shields.io)
 ![JavaScript](https://shields.io)
 ![Git](https://shields.io)
 
-## 📌 Projetos em Destaque (Santander Academy)
-*Em breve, meus principais desafios técnicos e projetos desenvolvidos no bootcamp estarão listados aqui!*
+## 📌 Featured Projects (Santander Academy)
+*Coming soon! My main technical challenges and projects developed during the bootcamp will be listed here.*
 
 ---
 
-📫 **Como me encontrar:**
+📫 **How to reach me:**
 * **LinkedIn:** [(https://www.linkedin.com/in/jhonatan-seiberlich/)]
 * **E-mail:** [jhonatanramiro2@gmail.com]
